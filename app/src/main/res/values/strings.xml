@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ATFSample</string>
+    <string name="test_content">Test Content</string>
+    <string name="test_content_description">Test Content Description</string>
+</resources>
